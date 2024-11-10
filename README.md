@@ -7,7 +7,7 @@ Cервис предоставляет методы для создания по
 
 Основные классы:
 
-• test_user=User('login':"same_login",'password':"hashed_password","id":"id_user","favorite_movies":"list_id_of_your_favorite_movies")
+•test_user=User('login':"same_login",'password':"hashed_password","id":"id_user","favorite_movies":"list_id_of_your_favorite_movies")
 
 Основные функции:
 
