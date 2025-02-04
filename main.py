@@ -13,7 +13,7 @@ from pydantic import BaseModel
 app=FastAPI()
 
 KINOPOISK_API_URL="https://kinopoiskapiunofficial.tech"
-API_KEY="28f1245d-59a9-4598-878a-7d429f83563d" #Enter your free Kinopoisk API - API_KEY 
+API_KEY="" #Enter your free Kinopoisk API - API_KEY 
 
 class Token (BaseModel):
     access_token:str
